@@ -1,0 +1,15 @@
+PODS:
+  - MarqueeLabel/Swift (3.0.1)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - MarqueeLabel/Swift
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  MarqueeLabel: 80ba85d2b76a9f5fa6c13de337db80bcd94feb1d
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: 1a0f40ba53f271f0fb65952e8229040c54eaefa3
+
+COCOAPODS: 1.1.1
